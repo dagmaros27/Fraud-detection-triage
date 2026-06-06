@@ -1,0 +1,10 @@
+.venv/
+.jupyter_runtime/
+__pycache__/
+*.py[cod]
+
+# Local data files are too large for normal GitHub pushes.
+data/*.csv
+
+# Notebook runtime checkpoints
+.ipynb_checkpoints/
