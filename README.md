@@ -2,7 +2,7 @@
 
 Fraud Triage is a Python research project for building and evaluating a human-in-the-loop fraud routing system. It trains a LightGBM fraud classifier, calibrates the resulting scores, wraps them in conformal prediction sets, and compares routing strategies under analyst-capacity constraints.
 
-The workflow is documented in [notebook.ipynb](notebook.ipynb), with reusable helpers in [src/](src/) and generated figures in [outputs/plots/](outputs/plots/).
+Read report paper [here](https://github.com/dagmaros27/Fraud-detection-triage/blob/main/report.pdf).
 
 ## Project Overview
 
